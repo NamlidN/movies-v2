@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.www {
+  text-align: center;
+  display: flex;
+
+  flex-wrap: wrap;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.contactEntry {
+  width: 10rem;
+  height: 15rem;
+
+  display: inline-block;
+
+  background-color: black;
+  color: aliceblue;
+  margin: 1rem;
+  padding: 1rem;
+
+}
+p{
+  margin: 1rem;
+}
